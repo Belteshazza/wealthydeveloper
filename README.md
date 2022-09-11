@@ -2,6 +2,8 @@
 
 <h1 align="center"> Hi 👋, I'm Idongesit Utong </h1>
 
+<h4 align="center"> A passionate backend developer  </h4>
+
 
 
 <!--
