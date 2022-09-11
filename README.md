@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning laravel and NFT
 - 👯 I’m looking to collaborate with developers on real life projects including NFT's
 - 🤔 I’m looking for help on side gigs and new projects 
-- 💬 Ask me about Laravel,Sql,Laragon,API's, NFT's
+- 💬 Ask me about Laravel,Sql,Laragon,API's and NFT's
 - 📫 How to reach me: idongesitutong@gmail.com
 - ⚡ Fun fact: I love to play chess
   
