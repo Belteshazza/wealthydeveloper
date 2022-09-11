@@ -6,8 +6,7 @@
 
 
 
-
-- 🔭 I’m currently working on Amazintrips project
+- 🔭 I’m currently working on some fun Laravel and NFT's project
 - 🌱 I’m currently learning laravel and NFT
 - 👯 I’m looking to collaborate with developers on real life projects including NFT's
 - 🤔 I’m looking for help on side gigs and new projects 
