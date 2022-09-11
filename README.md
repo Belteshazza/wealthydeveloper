@@ -1,5 +1,8 @@
 ![flat-design-backend-developer-landing-page-vector](https://user-images.githubusercontent.com/45596363/189547661-765f5683-6ea5-4447-9895-8ca42c6c7aa2.jpg)
-                                                               <center> ### Hi 👋, I'm Idongesit Utong </center> 
+
+<h1 align="center"> Hi 👋, I'm Idongesit Utong </h1>
+
+
 
 <!--
 **wealthydeveloper/wealthydeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+ 
