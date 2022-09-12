@@ -14,6 +14,9 @@
 - 📫 How to reach me: idongesitutong@gmail.com
 - ⚡ Fun fact: I love to play chess
 
+
+<h3> Language and Tools </h3>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wealthydeveloper&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wealthydeveloper&count_private=true)
