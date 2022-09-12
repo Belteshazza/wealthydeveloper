@@ -7,12 +7,12 @@
 
 
 - 🔭 I’m currently working on some fun Laravel and NFT's projects
-- 🌱 I’m currently learning laravel and NFT
+- 🌱 I’m currently learning Laravel,NFT and Visual Reality
 - 👯 I’m looking to collaborate with developers on real life projects including NFT's
 - 🤔 I’m looking for help on side gigs and new projects 
 - 💬 Ask me about Laravel,Sql,Laragon,API's and NFT's
 - 📫 How to reach me: idongesitutong@gmail.com
-- ⚡ Fun fact: I love to play chess
+- ⚡ Fun fact: I love the game of Chess
 
 
 <h3> Language and Tools </h3>
