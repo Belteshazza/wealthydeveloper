@@ -13,5 +13,7 @@
 - 💬 Ask me about Laravel,Sql,Laragon,API's and NFT's
 - 📫 How to reach me: idongesitutong@gmail.com
 - ⚡ Fun fact: I love to play chess
-  
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wealthydeveloper&hide_border=true)](https://git.io/streak-stats)
  
