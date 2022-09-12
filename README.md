@@ -19,7 +19,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wealthydeveloper&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wealthydeveloper&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wealthydeveloper&count_private=true&show_icons=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wealthydeveloper&hide_border=true)](https://git.io/streak-stats)
  
