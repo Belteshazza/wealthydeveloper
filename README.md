@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on some amazing Laravel and NFT's projects
 - 🌱 I’m currently learning Express.js
 - 👯 I’m looking to collaborate with developers on amzing projects for mobile, web apps and NFT's
-- 💬 Ask me about Laravel,Sql,Laragon,API's and NFT's
+- 💬 Ask me about Laravel,GraphQL,Sql,Laragon,API's and NFT's
 - 📫 How to reach me: idongesitutong@gmail.com, +2348137489567 on WhatsApp and Calls
 - ⚡ Fun fact: I love the game of Chess
 
